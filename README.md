@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🌱 I’m currently learning ![Java-logo](https://user-images.githubusercontent.com/94859820/224304856-d54af7da-56b4-4b1f-ae2e-986807ec798c.jpg)
+
 <!--
 **oliverGarniu/oliverGarniu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
