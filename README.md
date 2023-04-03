@@ -1,6 +1,6 @@
 ## Hi there, my name is Oliver 👋
 
-### Junior Java developer
+<!--### Junior Java developer-->
 
 * 🌍 I´m based in Barcelona
 * 🖥 See my [LinkedIn](https://www.linkedin.com/in/oliver-garniu/) profile
