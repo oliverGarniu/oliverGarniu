@@ -12,7 +12,6 @@
 __________________________________________________________________________________
 
 * 🌱 I’m currently learning 
-</br>
 
 [![SkillIcons](https://skillicons.dev/icons?i=java,idea,vscode,eclipse,git,github,spring,gradle,maven,heroku,hibernate,mysql,mongodb,postgres,postman,docker,discord,md&perline=6)](https://skillicons.dev)
 
